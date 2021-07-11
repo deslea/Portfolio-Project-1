@@ -4,6 +4,6 @@ This file is a portfolio project by Deslea Selmes for the Codecademy Pro Data An
 
 I have positioned this as a short analysis for a hypothetical client, the marketing department. They intend to run a feelgood advertorial campaign providing quit-smoking resources to current and prospective customers. They want to know the impact of quitting smoking on premiums, and also information to target the advertorials (smoking rates among, for instance, women with children) and regional variations.
 
-Much of this analysis would be better done in SQL but this was outside the parameters of the project.
+Much of this analysis would be better done in SQL and/or with libraries such as Pandas, but this was outside the parameters of the project as given and where situated in the learning cycle. (I will probably revise this to include them when my portfolio is more advanced).
 
 The script is reasonably heavily commented for ease of understanding by an external party.
